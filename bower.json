@@ -1,0 +1,25 @@
+{
+  "name": "react-starter",
+  "description": "A React Starter Kit",
+  "main": "index.js",
+  "authors": [
+    "Leon Ho"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ReactJS"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
