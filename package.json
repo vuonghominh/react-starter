@@ -1,0 +1,21 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "description": "A React Starter Kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ReactJS"
+  ],
+  "author": "Leon Ho",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.13.0"
+  },
+  "dependencies": {
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
+  }
+}
